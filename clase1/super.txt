@@ -2,3 +2,7 @@ bananas
 manzanas
 pan
 galletitas
+
+palta
+naranjas
+melon
